@@ -1,0 +1,32 @@
+{
+  "name": "mui-themes-v6",
+  "version": "1.0.0",
+  "description": "Open-source repository for Material-UI (MUI) themes, organized by version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naved97/mui-themes.git"
+  },
+  "keywords": [
+    "mui",
+    "materialui",
+    "muithemes",
+    "opensourcemuithemes",
+    "muithemescollection",
+    "muithemesallversion"
+  ],
+  "author": "Naved Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naved97/mui-themes/issues"
+  },
+  "homepage": "https://github.com/naved97/mui-themes#readme",
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.1"
+  }
+}
